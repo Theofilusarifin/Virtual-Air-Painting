@@ -5,7 +5,7 @@ import os
 
 import track_hands as TH
 
-brush_thickness = 15
+brush_thickness = 2
 eraser_thickness = 100
 image_canvas =np.zeros((720,1280,3), np.uint8)
 

@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import os 
+import os
 import track_hands as TH
 
 class VideoCamera():
